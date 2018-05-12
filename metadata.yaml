@@ -1,0 +1,35 @@
+_repo: Cripps-the-Carrier--A-Woodland-Tale_43281
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43281-h/images/covers.jpg
+creator:
+  author:
+    agent_name: Blackmore, R. D. (Richard Doddridge)
+    alias: Blackmore, Richard Doddridge
+    birthdate: 1825
+    deathdate: 1900
+    gutenberg_agent_id: '439'
+    url: http://www.gutenberg.org/2009/agents/439
+    wikipedia: http://en.wikipedia.org/wiki/R._D._Blackmore
+description: "Cripps the Carrier: a woodland tale, is a novel by Richard Doddridge\
+  \ Blackmore, author of Lorna Doone. It was first published in 1876 and is set in\
+  \ and around the village of Beckley in the rural area of Headington just outside\
+  \ Oxford to the east and the road to London.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2013-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43281'
+  wikidata: Q5185850
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kidnapping -- Fiction'
+- !lcsh 'Oxfordshire (England) -- Fiction'
+- !lcc 'PR'
+title: 'Cripps, the Carrier: A Woodland Tale'
+url: http://www.gutenberg.org/ebooks/43281
+wikipedia:
+- https://en.wikipedia.org/wiki/Cripps_the_Carrier
